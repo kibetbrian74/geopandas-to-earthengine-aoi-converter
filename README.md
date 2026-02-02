@@ -55,4 +55,5 @@ This generates `output/aoi_map.html` containing an interactive map of your AOI
 # Author
 
 **Brian Cheruiyot**
+
 Email: bkibetcheuiyot@gmail.com

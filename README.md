@@ -50,10 +50,9 @@ python gpd_to_gee_featureCollection.py
 - Enter the folder to save the interactive HTML map
 - Open the exported HTML file in your browser to view your AOI.
 
-This generates `output/aoi_map.html' containing an interactive map of your AOI
+This generates `output/aoi_map.html` containing an interactive map of your AOI
 
 # Author
 
 **Brian Cheruiyot**
-
 Email: bkibetcheuiyot@gmail.com
